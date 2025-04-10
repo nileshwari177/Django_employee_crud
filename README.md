@@ -14,6 +14,13 @@ It allows users to manage employee records such as name, email, department.
 - Edit existing employee info ✏️
 - Delete employee data 🗑️
 
+## 📸 Screenshots
+
+### 🧾 Employee List View  
+![Employee List](https://github.com/nileshwari177/Django_employee_crud/blob/0a7a5e1215410ef8e4c3b965abc0bd6b7db0e6ae/Screenshot%202025-04-11%20020745.png?raw=true)
+
+### ➕ Add New Employee  
+![Add Employee](https://github.com/nileshwari177/Django_employee_crud/blob/0a7a5e1215410ef8e4c3b965abc0bd6b7db0e6ae/Screenshot%202025-04-11%20020756.png?raw=true)
 
 ---
 
